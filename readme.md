@@ -48,3 +48,11 @@ try:
 	auth.send_email_verification(user['idToken'])
 except requests.exceptions.HTTPError:
 ```
+<<<<<<< Updated upstream
+=======
+
+```
+[FirebaseUI-Google/FB-Auth](https://github.com/firebase/FirebaseUI-Web)
+[Firebase for python](https://github.com/thisbejim/Pyrebase)
+```
+>>>>>>> Stashed changes
