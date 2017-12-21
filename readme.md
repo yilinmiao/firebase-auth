@@ -11,13 +11,14 @@ Install if you don't have the following modules.
 ```
 ### python 3
 ```python
-    $ python3 -m pip install pyrebase
-    $ python3 -m pip install flask
+$ python3 -m pip install pyrebase
+$ python3 -m pip install flask
 ```
 run
 ```python
-	python3 app.py
-```@localhost:5000
+$ python3 app.py
+```
+@localhost:5000
 
 ## Quick Start
 ### Init
