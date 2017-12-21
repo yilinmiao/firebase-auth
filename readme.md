@@ -6,8 +6,8 @@ Using [Firebase API](https://firebase.google.com).
 Install if you don't have the following modules.
 ### python 2 (or default to python 3)
 ```python
-    $ pip install pyrebase
-    $ pip install flask
+$ pip install pyrebase
+$ pip install flask
 ```
 ### python 3
 ```python
@@ -48,8 +48,7 @@ try:
 	auth.send_email_verification(user['idToken'])
 except requests.exceptions.HTTPError:
 ```
-
-```
+## Reference
 [FirebaseUI-Google/FB-Auth](https://github.com/firebase/FirebaseUI-Web)
+
 [Firebase for python](https://github.com/thisbejim/Pyrebase)
-```
